@@ -12,7 +12,7 @@ I'm a mechanical engineer turned robotics engineer passionate about building int
 
 ## 📄 Curriculum Vitae
 
-<p align="center">
+<p align="left">
 <a href="CV_Yasashwini_Gutta.pdf">
 <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
