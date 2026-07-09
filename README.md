@@ -10,6 +10,28 @@
 
 I'm a mechanical engineer turned robotics engineer passionate about building intelligent autonomous systems. I enjoy combining mechanical engineering with AI to solve real-world robotics challenges and am currently pursuing my Master's in Robotics Systems Engineering at RWTH Aachen University.
 
+## 📄 Curriculum Vitae
+
+<p align="center">
+<a href="CV_Yasashwini_Gutta.pdf">
+<img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
+</p>
+
+## 📫 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/yasashwini-gutta">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:guttayasashwini@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
 ### 🌟 Interests
 
 - 🤖 Robotics
@@ -70,3 +92,27 @@ An automated Telegram bot that monitors RWTH student assistant job postings and 
 💡 **More coming soon!**
 
 My GitHub may still be young, but I'm a fast learner who enjoys turning ideas into working solutions. Expect more repositories covering robotics, machine learning, computer vision, and autonomous systems as I continue building throughout my Master's at RWTH Aachen.
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasashwinigutta&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yasashwinigutta&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasashwinigutta&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🏆 Achievements
+
+🎓 HiPS Scholarship Recipient
+
+🥇 Winner — Bonding × itestra Bot Strategy Hackathon (2026)
