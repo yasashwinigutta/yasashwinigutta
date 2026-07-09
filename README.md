@@ -2,7 +2,7 @@
 
 🎓 **MSc Robotics Systems Engineering** @ RWTH Aachen University
 
-🤖 Robotics • 🧠 Machine Learning • 👁️ Computer Vision • 🎯 Reinforcement Learning
+Robotics • Machine Learning • Computer Vision • Reinforcement Learning
 
 ---
 
@@ -93,25 +93,7 @@ An automated Telegram bot that monitors RWTH student assistant job postings and 
 
 My GitHub may still be young, but I'm a fast learner who enjoys turning ideas into working solutions. Expect more repositories covering robotics, machine learning, computer vision, and autonomous systems as I continue building throughout my Master's at RWTH Aachen.
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasashwinigutta&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yasashwinigutta&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasashwinigutta&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 🏆 Achievements
+## 🏆 Notable Achievements 
 
 🎓 HiPS Scholarship Recipient
 
