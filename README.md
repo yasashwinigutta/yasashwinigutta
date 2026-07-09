@@ -69,7 +69,7 @@ I'm a mechanical engineer turned robotics engineer passionate about building int
 
 ## 🚀 Featured Projects
 
-I'm relatively new to sharing my work on GitHub, so this portfolio is still growing—but so am I. Every repository here reflects something I've built, experimented with, or learned along the way. More projects from my coursework, robotics research, and personal explorations are on their way.
+I'm relatively new to sharing my work on GitHub, so this portfolio is still growing, but so am I. Every repository here reflects something I've built, experimented with, or learned along the way. More projects from my coursework, robotics research, and personal explorations are on their way.
 
 ### 🤖 Itestra Hackathon – Autonomous Snake Bot
 
